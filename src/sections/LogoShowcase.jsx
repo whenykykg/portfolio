@@ -10,7 +10,7 @@ const LogoIcon = ({ icon }) => {
 };
 
 const LogoShowcase = () => (
-    <div className="md:my-20 my-10 relative">
+    <div className="w-full h-full md:px-20 px-5">
         <TitleHeader
             title="The tools I'm working with..."
             sub="🔨 My Toolkit"
